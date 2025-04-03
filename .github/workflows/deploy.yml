@@ -25,3 +25,4 @@ jobs:
             git pull origin main
             # Caso a aplicação precise ser reiniciada, descomente a linha abaixo
             # sudo systemctl restart minha-app
+            #
